@@ -163,8 +163,7 @@ We welcome contributions to all our open-source projects! Check out our [Contrib
 
 - 📖 [Documentation](https://docs.absmartly.com) - Complete guides and API references
 - 📝 [Blog](https://www.absmartly.com/blog) - Best practices and case studies
-- 🎥 [Video Tutorials](https://www.youtube.com/absmartly) - Step-by-step guides
-- 💬 [Community Forum](https://community.absmartly.com) - Get help and share experiences
+- 🎥 [Video Tutorials](https://www.youtube.com/@absmartly) - Step-by-step guides
 
 ## 🏢 About ABsmartly
 
