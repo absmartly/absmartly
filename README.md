@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://www.absmartly.com/favicon.ico" alt="ABSmartly Logo" width="120" height="120">
+  <img src="https://docs.absmartly.com/img/logo.png" alt="ABsmartly Logo" width="200">
   
-  # ABSmartly
+  # ABsmartly
   
   ### 🚀 The Most Developer-Friendly A/B Testing Platform
   
@@ -13,13 +13,10 @@
 
 ---
 
-## 🎯 What is ABSmartly?
+## 🎯 What is ABsmartly?
 
-ABSmartly is a powerful, developer-centric A/B testing and feature flagging platform that enables teams to run experiments at scale. Built by developers for developers, it provides the tools and infrastructure needed to make data-driven decisions with confidence.
+ABsmartly is a powerful, developer-centric A/B testing and feature flagging platform that enables teams to run experiments at scale. Built by developers for developers, it provides the tools and infrastructure needed to make data-driven decisions with confidence.
 
-<div align="center">
-  <img src="https://www.absmartly.com/images/platform-overview.png" alt="ABSmartly Platform" width="800">
-</div>
 
 ## ✨ Key Features
 
@@ -62,10 +59,10 @@ ABSmartly is a powerful, developer-centric A/B testing and feature flagging plat
   
 | SDK | Description | Stars |
 |-----|-------------|-------|
-| [**Java SDK**](https://github.com/absmartly/java-sdk) | Official Java SDK for ABSmartly | ![Stars](https://img.shields.io/github/stars/absmartly/java-sdk?style=social) |
+| [**Java SDK**](https://github.com/absmartly/java-sdk) | Official Java SDK for ABsmartly | ![Stars](https://img.shields.io/github/stars/absmartly/java-sdk?style=social) |
 | [**JavaScript SDK**](https://github.com/absmartly/javascript-sdk) | Browser and Node.js SDK | ![Stars](https://img.shields.io/github/stars/absmartly/javascript-sdk?style=social) |
 | [**Go SDK**](https://github.com/absmartly/go-sdk) | Official Go SDK | ![Stars](https://img.shields.io/github/stars/absmartly/go-sdk?style=social) |
-| [**Python SDK**](https://github.com/absmartly/python-sdk) | Python SDK for ABSmartly | ![Stars](https://img.shields.io/github/stars/absmartly/python-sdk?style=social) |
+| [**Python SDK**](https://github.com/absmartly/python-sdk) | Python SDK for ABsmartly | ![Stars](https://img.shields.io/github/stars/absmartly/python-sdk?style=social) |
 | [**PHP SDK**](https://github.com/absmartly/php-sdk) | PHP SDK for server-side experiments | ![Stars](https://img.shields.io/github/stars/absmartly/php-sdk?style=social) |
 | [**React SDK**](https://github.com/absmartly/react-sdk) | React hooks and components | ![Stars](https://img.shields.io/github/stars/absmartly/react-sdk?style=social) |
 | [**Swift SDK**](https://github.com/absmartly/swift-sdk) | iOS and macOS SDK | ![Stars](https://img.shields.io/github/stars/absmartly/swift-sdk?style=social) |
@@ -82,7 +79,7 @@ ABSmartly is a powerful, developer-centric A/B testing and feature flagging plat
 |------|-------------|--------|
 | [**Chrome Extension**](https://github.com/absmartly/absmartly-chrome-extension) | Visual experiment creation & debugging | 🚧 Beta |
 | [**MCP Server**](https://github.com/absmartly/absmartly-mcp) | Model Context Protocol integration | ✅ Active |
-| [**CLI Tools**](https://github.com/absmartly/cli) | Command-line interface for ABSmartly | ✅ Active |
+| [**CLI Tools**](https://github.com/absmartly/cli) | Command-line interface for ABsmartly | ✅ Active |
 
 </div>
 
@@ -104,9 +101,9 @@ go get github.com/absmartly/go-sdk
 ### 2. Initialize the SDK
 
 ```javascript
-import { ABSmartly } from '@absmartly/javascript-sdk';
+import { ABsmartly } from '@absmartly/javascript-sdk';
 
-const absmartly = new ABSmartly({
+const absmartly = new ABsmartly({
   endpoint: 'https://your-instance.absmartly.io/v1',
   apiKey: 'YOUR_API_KEY',
   application: 'your-app',
@@ -132,11 +129,7 @@ if (treatment === 1) {
 }
 ```
 
-## 📈 Why Choose ABSmartly?
-
-<div align="center">
-  <img src="https://www.absmartly.com/images/dashboard-screenshot.png" alt="ABSmartly Dashboard" width="800">
-</div>
+## 📈 Why Choose ABsmartly?
 
 ### For Developers 👨‍💻
 - **Type-safe SDKs** with excellent IDE support
@@ -173,9 +166,9 @@ We welcome contributions to all our open-source projects! Check out our [Contrib
 - 🎥 [Video Tutorials](https://www.youtube.com/absmartly) - Step-by-step guides
 - 💬 [Community Forum](https://community.absmartly.com) - Get help and share experiences
 
-## 🏢 About ABSmartly
+## 🏢 About ABsmartly
 
-ABSmartly is trusted by leading companies worldwide to power their experimentation programs. Our platform handles billions of events monthly, enabling teams to make confident, data-driven decisions.
+ABsmartly is trusted by leading companies worldwide to power their experimentation programs. Our platform handles billions of events monthly, enabling teams to make confident, data-driven decisions.
 
 <div align="center">
   <h3>Ready to accelerate your experimentation?</h3>
@@ -196,5 +189,5 @@ ABSmartly is trusted by leading companies worldwide to power their experimentati
     <a href="https://www.linkedin.com/company/absmartly">LinkedIn</a>
   </p>
   
-  <p>© 2024 ABSmartly. Built with ❤️ for developers and data teams.</p>
+  <p>© 2024 ABsmartly. Built with ❤️ for developers and data teams.</p>
 </div>
