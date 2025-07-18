@@ -62,12 +62,12 @@ ABsmartly is a powerful, developer-centric A/B testing and feature flagging plat
 | [**Java SDK**](https://github.com/absmartly/java-sdk) | Official Java SDK for ABsmartly | ![Stars](https://img.shields.io/github/stars/absmartly/java-sdk?style=social) |
 | [**JavaScript SDK**](https://github.com/absmartly/javascript-sdk) | Browser and Node.js SDK | ![Stars](https://img.shields.io/github/stars/absmartly/javascript-sdk?style=social) |
 | [**Go SDK**](https://github.com/absmartly/go-sdk) | Official Go SDK | ![Stars](https://img.shields.io/github/stars/absmartly/go-sdk?style=social) |
-| [**Python SDK**](https://github.com/absmartly/python-sdk) | Python SDK for ABsmartly | ![Stars](https://img.shields.io/github/stars/absmartly/python-sdk?style=social) |
+| [**Python SDK**](https://github.com/absmartly/python3-sdk) | Python SDK for ABsmartly | ![Stars](https://img.shields.io/github/stars/absmartly/python3-sdk?style=social) |
 | [**PHP SDK**](https://github.com/absmartly/php-sdk) | PHP SDK for server-side experiments | ![Stars](https://img.shields.io/github/stars/absmartly/php-sdk?style=social) |
 | [**React SDK**](https://github.com/absmartly/react-sdk) | React hooks and components | ![Stars](https://img.shields.io/github/stars/absmartly/react-sdk?style=social) |
 | [**Swift SDK**](https://github.com/absmartly/swift-sdk) | iOS and macOS SDK | ![Stars](https://img.shields.io/github/stars/absmartly/swift-sdk?style=social) |
 | [**.NET SDK**](https://github.com/absmartly/dotnet-sdk) | C# and .NET SDK | ![Stars](https://img.shields.io/github/stars/absmartly/dotnet-sdk?style=social) |
-| [**Vue3 SDK**](https://github.com/absmartly/vue3-sdk) | Vue 3 composition API support | ![Stars](https://img.shields.io/github/stars/absmartly/vue3-sdk?style=social) |
+| [**Vue2 SDK**](https://github.com/absmartly/vue2-sdk) | Vue 2 SDK with plugin support | ![Stars](https://img.shields.io/github/stars/absmartly/vue2-sdk?style=social) |
 
 </div>
 
@@ -151,7 +151,7 @@ if (treatment === 1) {
 
 ## 🤝 Contributing
 
-We welcome contributions to all our open-source projects! Check out our [Contributing Guidelines](https://github.com/absmartly/.github/blob/main/CONTRIBUTING.md) to get started.
+We welcome contributions to all our open-source projects! Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 ### Ways to Contribute
 - 🐛 Report bugs and issues
